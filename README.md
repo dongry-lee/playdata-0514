@@ -1,13 +1,10 @@
 # playdata-0514
+- playdata-0514
+- Introduce of DS
 - hi 
-- 
 ```python
 print("hihi")
 
 ```
-
-
-- playdata-0514
-- Introduce of DS
- 
->>>>>>> 72d167d (read.me fix [#4])
+- 개발자 은비
+- 수정수정
