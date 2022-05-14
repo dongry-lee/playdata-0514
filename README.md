@@ -1,6 +1,11 @@
 # playdata-0514
-- hi 
-- 
+feat-ljh
+
+hi 
+ 
+
+개발자들의 사이드 프로젝트입니다.
+
 ```python
 print("hihi")
 
@@ -9,5 +14,3 @@ print("hihi")
 
 - playdata-0514
 - Introduce of DS
- 
->>>>>>> 72d167d (read.me fix [#4])
